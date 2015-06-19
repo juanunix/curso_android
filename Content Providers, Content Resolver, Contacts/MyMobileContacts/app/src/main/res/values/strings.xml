@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMobileContacts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_contact">Nombre del contacto</string>
+    <string name="set_name_contact">Teclee el nombre del contacto a buscar</string>
+    <string name="button">Buscar</string>
+</resources>
