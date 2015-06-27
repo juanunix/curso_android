@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBatteryStatus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_show_battery_level">ActivityShowBatteryLevel</string>
+    <string name="battery_notification">Mi propia notificación</string>
+    <string name="battery_not_desc">Bateria baja: Menor del 20%</string>
+    <string name="testView_Battery">El nivel de la batería de su telefono es: </string>
+</resources>
