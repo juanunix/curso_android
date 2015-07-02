@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherIntentService</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="weather_7days">Tiempo en Madrid 7 dias.</string>
+</resources>
